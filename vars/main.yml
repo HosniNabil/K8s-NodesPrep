@@ -1,2 +1,3 @@
 ---
 # vars file for K8s-NodesPrep
+ip_prefix : "24"
